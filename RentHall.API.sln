@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentHall.API", "RentHall.API\RentHall.API.csproj", "{ACDC389A-BDD8-4B19-93D4-1FBF34C3C990}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentHall.Core", "RentHall.Core\RentHall.Core.csproj", "{56170C49-3E51-4B79-AF54-DD0D6E9C5462}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RentHall.DataAccess", "RentHall.DataAccess\RentHall.DataAccess.csproj", "{91200A66-DD81-4B72-A596-C0C266119A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RentHall.Application", "RentHall.Application\RentHall.Application.csproj", "{05D017AC-EED2-4D08-938C-B14F0450E22C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACDC389A-BDD8-4B19-93D4-1FBF34C3C990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACDC389A-BDD8-4B19-93D4-1FBF34C3C990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACDC389A-BDD8-4B19-93D4-1FBF34C3C990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACDC389A-BDD8-4B19-93D4-1FBF34C3C990}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56170C49-3E51-4B79-AF54-DD0D6E9C5462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56170C49-3E51-4B79-AF54-DD0D6E9C5462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56170C49-3E51-4B79-AF54-DD0D6E9C5462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56170C49-3E51-4B79-AF54-DD0D6E9C5462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91200A66-DD81-4B72-A596-C0C266119A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91200A66-DD81-4B72-A596-C0C266119A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91200A66-DD81-4B72-A596-C0C266119A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91200A66-DD81-4B72-A596-C0C266119A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D017AC-EED2-4D08-938C-B14F0450E22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D017AC-EED2-4D08-938C-B14F0450E22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D017AC-EED2-4D08-938C-B14F0450E22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D017AC-EED2-4D08-938C-B14F0450E22C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED117A1A-527E-43B0-9D6B-DAA18B9D995C}
+	EndGlobalSection
+EndGlobal
