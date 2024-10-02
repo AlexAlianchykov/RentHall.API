@@ -54,7 +54,11 @@ C сущностями:
 
 ![image](https://github.com/user-attachments/assets/95709ab6-a260-4dd9-a494-8929b5c6752d)
 
+Таблица Additionals:
+
 ![image](https://github.com/user-attachments/assets/8b40fe34-be5b-4469-93b0-c5cf27415c62)
+
+Таблица Bookings:
 
 ![image](https://github.com/user-attachments/assets/fc010004-7bd5-4fda-8848-33fa213a6957)
 
