@@ -41,6 +41,15 @@ C сущностями:
 Структура базы данных выглядит следующим образом:
 ![image](https://github.com/user-attachments/assets/d52838eb-13d6-496b-8c4f-25f1e32118d2)
 
+Вид бд в MSSQL: 
+
+![image](https://github.com/user-attachments/assets/f79b7e5f-1f50-4095-b88f-fbcc8e3ab64e)
+
+![image](https://github.com/user-attachments/assets/ede1e558-37a3-4608-819c-429319e2ae16)
+![image](https://github.com/user-attachments/assets/95709ab6-a260-4dd9-a494-8929b5c6752d)
+![image](https://github.com/user-attachments/assets/8b40fe34-be5b-4469-93b0-c5cf27415c62)
+![image](https://github.com/user-attachments/assets/fc010004-7bd5-4fda-8848-33fa213a6957)
+
 <br><br>
 ### В слое Presentation:
 Pеализованы контроллеры, контракты(Dto), а также регистрация зависимостей. Слой Presentation отвечает за взаимодействие с пользователями, он принимает Http-запросы от пользователя и отвечает за передачу их в соответствующие сервисы, и возвращение результата клиенту. Он не содержит бизнес-логику или сложные операции с данными.
