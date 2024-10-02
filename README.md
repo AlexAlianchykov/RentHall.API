@@ -13,14 +13,14 @@ RentHall.API разработан как API для управления кон�
 
 Сам слой Domain организован следущим способом, есть 2 агрегата: 
 1) AggregateHall
-   У которого aggregate root - Hall.
-   C сущностями:
+У которого aggregate root - Hall.
+C сущностями:
    1) Hall (у него есть Value Object - Price)
    2) Booking
    3) AdditionalServices (у него есть Value Object - Price)
 
 2) AggregateUser
-   У которого aggregate root - User.
-   C сущностями:
+У которого aggregate root - User.
+C сущностями:
    1) User (у него есть Value Object - Email)
 
