@@ -43,11 +43,15 @@ C сущностями:
 
 Вид бд в MSSQL: 
 
+Таблица Users:
 ![image](https://github.com/user-attachments/assets/f79b7e5f-1f50-4095-b88f-fbcc8e3ab64e)
 
 ![image](https://github.com/user-attachments/assets/ede1e558-37a3-4608-819c-429319e2ae16)
+
 ![image](https://github.com/user-attachments/assets/95709ab6-a260-4dd9-a494-8929b5c6752d)
+
 ![image](https://github.com/user-attachments/assets/8b40fe34-be5b-4469-93b0-c5cf27415c62)
+
 ![image](https://github.com/user-attachments/assets/fc010004-7bd5-4fda-8848-33fa213a6957)
 
 <br><br>
