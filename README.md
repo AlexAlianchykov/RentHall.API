@@ -44,7 +44,10 @@ C сущностями:
 Вид бд в MSSQL: 
 
 Таблица Users:
+
 ![image](https://github.com/user-attachments/assets/f79b7e5f-1f50-4095-b88f-fbcc8e3ab64e)
+
+Таблица Halls:
 
 ![image](https://github.com/user-attachments/assets/ede1e558-37a3-4608-819c-429319e2ae16)
 
