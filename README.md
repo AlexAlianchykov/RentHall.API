@@ -50,12 +50,15 @@ Pеализованы контроллеры, контракты(Dto), а так
 В проекте реализован HttpGet-запрос возвращающий html-страничку анализа работы api.
 В которой есть таблица : 
 1) Спрос на конференц-залы
+   
 ![image](https://github.com/user-attachments/assets/c1c7a517-089d-4aa9-bf23-37d7650d9be4)
 
 2) Спрос на дополнительные услуги
+   
 ![image](https://github.com/user-attachments/assets/985496b6-7df8-495a-883e-1810ab4b5ef8)
 
 3) Количество пользователей
+   
 ![image](https://github.com/user-attachments/assets/d376fcde-9752-42b9-ba79-f1ad1d3e2a4c)
 
 
