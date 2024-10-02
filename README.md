@@ -43,6 +43,9 @@ C сущностями:
 
 ![image](https://github.com/user-attachments/assets/b15b9df9-2789-4fac-9580-88c8dd30e4f3)
 
+![image](https://github.com/user-attachments/assets/d52838eb-13d6-496b-8c4f-25f1e32118d2)
+
+
 
 
 
